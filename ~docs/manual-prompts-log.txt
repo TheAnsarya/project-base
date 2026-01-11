@@ -22,7 +22,10 @@ Make documentation for everything and all documentation should be reachable from
 UTF-8, and add BOM so everything handles unicode and emjois without error, instead of removing the unicode stuff;
 hexadecimal values are lowercase and assembly files should use lowercase operands we want all hexadecimal values to be lowercase unless they have to be uppercase for a particular format and all `asm`/`s`/`inc` disassembly code files and all the documentation with ASM code examples or descriptions, so all hexadecimal values and asm code operands (like lda, inc, tya, mult, jsr, etc.) should be lowercase as well;
 
+Create a new branch for each issue/feature and then merge it back into `main`/`master` before moving on to the next one;
+
 Main purpose of the project:
+Create comprehensive plans and todolists and documentation and github issues and a roadmap and epics, etc, for this effort;
 <description of project>
 
 I forgot a lot so figure out what else we need for a generic project base, don't add nonsense, only neccessity;
